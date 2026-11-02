@@ -1,0 +1,281 @@
+[
+  {
+    "topic": "I built a YOLOv8 helmet detection project",
+    "platform": "LinkedIn",
+    "tone": "Professional and exciting",
+    "output_type": "Post + Reel Script",
+    "hook": "Revolutionizing warehouse safety, one detection at a time!",
+    "saved_file": "outputs\\generated_posts\\i_built_a_yolov8_helmet_detection_projec_linkedin.md",
+    "timestamp": "2026-11-02T06:54:08"
+  },
+  {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "hook": "Protecting athletes is paramount – and now, we can do it with unparalleled speed.",
+    "saved_file": "outputs\\generated_posts\\yolov8_helmet_detection_linkedin.md",
+    "timestamp": "2026-11-02T07:05:12"
+  },
+  {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "hook": "Want to transform your CV from “potential” to “ready”?",
+    "saved_file": "outputs\\generated_posts\\ai_internship_experience_linkedin.md",
+    "timestamp": "2026-11-02T07:07:31"
+  },
+  {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel Script",
+    "hook": "Let’s be honest, if you’re just starting with Python, you’re probably still convinced “print('Hello, World!')” is a genuine magic spell. ✨ Seriously, the universe just *responds* to that command! 🤯 It’s wild, right?",
+    "saved_file": "outputs\\generated_scripts\\python_learning_journey_instagram.md",
+    "timestamp": "2026-11-02T07:11:15"
+  },
+  {
+    "topic": "Machine learning project",
+    "platform": "X/Twitter",
+    "tone": "Short and catchy",
+    "output_type": "Post",
+    "hook": "Ditch the manual checks!",
+    "saved_file": "outputs\\generated_posts\\machine_learning_project_x_twitter.md",
+    "timestamp": "2026-11-02T07:13:03"
+  },
+  {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "output_type": "Post",
+    "hook": "You know you’re in the data annotation game when a single mislabeled cat can derail your entire afternoon.",
+    "saved_file": "outputs\\generated_posts\\data_annotation_struggles_linkedin.md",
+    "timestamp": "2026-11-02T07:15:19"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel Script",
+    "hook": "My model’s confidence score peaked at 99.9%… right before it predicted pineapple on pizza was a delicacy. 🤯",
+    "saved_file": "outputs\\generated_scripts\\model_failed_in_production_instagram.md",
+    "timestamp": "2026-11-02T07:19:21"
+  },
+  {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "hook": "Deploying a sentiment analysis model for a final year project is one thing; managing its longevity is another entirely.",
+    "saved_file": "outputs\\generated_posts\\final_year_project_linkedin.md",
+    "timestamp": "2026-11-02T07:23:31"
+  },
+  {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Reel Script",
+    "hook": "Hold onto your hats – AI is officially obsessed with cats!",
+    "saved_file": "outputs\\generated_scripts\\computer_vision_project_youtube_shor.md",
+    "timestamp": "2026-11-02T07:26:59"
+  },
+  {
+    "topic": "Debugging FastAPI",
+    "platform": "X/Twitter",
+    "tone": "Funny",
+    "output_type": "Post",
+    "hook": "3 AM debugging panic? 🤯",
+    "saved_file": "outputs\\generated_posts\\debugging_fastapi_x_twitter.md",
+    "timestamp": "2026-11-02T07:28:37"
+  },
+  {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "output_type": "Post",
+    "hook": "Launch your career with a code that matters – and a portfolio that speaks volumes.",
+    "saved_file": "outputs\\generated_posts\\open_source_contribution_linkedin.md",
+    "timestamp": "2026-11-02T07:30:52"
+  },
+  {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "hook": "Imagine a retail environment where potential loss is proactively identified, not just reacted to.",
+    "saved_file": "outputs\\generated_posts\\yolov8_helmet_detection_linkedin.md",
+    "timestamp": "2026-11-02T10:35:49"
+  },
+  {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "hook": "Debugging a conversational AI chatbot from scratch? Let’s just say it was a baptism by fire 🔥.",
+    "saved_file": "outputs\\generated_posts\\ai_internship_experience_linkedin.md",
+    "timestamp": "2026-11-02T10:38:09"
+  },
+  {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel Script",
+    "hook": "I’ve officially entered a debugging vortex, and it only took me three days to realize I was staring at a print statement. 🤯 Seriously, my brain is currently composed entirely of semicolons and frustration.",
+    "saved_file": "outputs\\generated_scripts\\python_learning_journey_instagram.md",
+    "timestamp": "2026-11-02T10:41:50"
+  },
+  {
+    "topic": "Machine learning project",
+    "platform": "X/Twitter",
+    "tone": "Short and catchy",
+    "output_type": "Post",
+    "hook": "AI Kicks! 🤖👟",
+    "saved_file": "outputs\\generated_posts\\machine_learning_project_x_twitter.md",
+    "timestamp": "2026-11-02T10:43:43"
+  },
+  {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "output_type": "Post",
+    "hook": "Ever stare at your data annotation spreadsheet and think, “This looks less like a process and more like a Jackson Pollock painting”?",
+    "saved_file": "outputs\\generated_posts\\data_annotation_struggles_linkedin.md",
+    "timestamp": "2026-11-02T10:46:04"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel Script",
+    "hook": "My meticulously crafted model just… died. 💀 Six months. Six. Months. of training, tweaking, and praying to the data gods. Then, demo day. The inevitable crash. 📉",
+    "saved_file": "outputs\\generated_scripts\\model_failed_in_production_instagram.md",
+    "timestamp": "2026-11-02T10:50:07"
+  },
+  {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "hook": "Let’s be honest – the final year project myth of seamless execution is a beautiful lie.",
+    "saved_file": "outputs\\generated_posts\\final_year_project_linkedin.md",
+    "timestamp": "2026-11-02T10:54:03"
+  },
+  {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Reel Script",
+    "hook": "Hold on to your hats – AI just predicted a UNICORN!",
+    "saved_file": "outputs\\generated_scripts\\computer_vision_project_youtube_shor.md",
+    "timestamp": "2026-11-02T10:57:50"
+  },
+  {
+    "topic": "Debugging FastAPI",
+    "platform": "X/Twitter",
+    "tone": "Funny",
+    "output_type": "Post",
+    "hook": "Semicolon meltdown! 🤯",
+    "saved_file": "outputs\\generated_posts\\debugging_fastapi_x_twitter.md",
+    "timestamp": "2026-11-02T10:59:43"
+  },
+  {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "output_type": "Post",
+    "hook": "Launch your career with a tangible achievement – and a whole lot of confidence.",
+    "saved_file": "outputs\\generated_posts\\open_source_contribution_linkedin.md",
+    "timestamp": "2026-11-02T11:02:01"
+  },
+  {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "hook": "Transforming safety protocols with real-time intelligence – it’s time to rethink helmet detection.",
+    "saved_file": "outputs\\generated_posts\\yolov8_helmet_detection_linkedin.md",
+    "timestamp": "2026-11-02T11:04:38"
+  },
+  {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "hook": "Sometimes, the biggest wins aren't about the destination, but the battles you fight to get there.",
+    "saved_file": "outputs\\generated_posts\\ai_internship_experience_linkedin.md",
+    "timestamp": "2026-11-02T11:07:05"
+  },
+  {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel Script",
+    "hook": "My Roomba’s attempt to learn Python and follow a line resulted in approximately 70% wall collisions. 🤯",
+    "saved_file": "outputs\\generated_scripts\\python_learning_journey_instagram.md",
+    "timestamp": "2026-11-02T11:11:11"
+  },
+  {
+    "topic": "Machine learning project",
+    "platform": "X/Twitter",
+    "tone": "Short and catchy",
+    "output_type": "Post",
+    "hook": "Helmet sales just got a serious upgrade! 🚀",
+    "saved_file": "outputs\\generated_posts\\machine_learning_project_x_twitter.md",
+    "timestamp": "2026-11-02T11:12:57"
+  },
+  {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "output_type": "Post",
+    "hook": "Let me tell you, the data annotation world is wild. 🤯",
+    "saved_file": "outputs\\generated_posts\\data_annotation_struggles_linkedin.md",
+    "timestamp": "2026-11-02T11:15:23"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel Script",
+    "hook": "Send button failed. Repeatedly. 🤦‍♂️",
+    "saved_file": "outputs\\generated_scripts\\model_failed_in_production_instagram.md",
+    "timestamp": "2026-11-02T11:19:38"
+  },
+  {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "hook": "Let’s just say my final year project delivered a *very* real-world lesson in model deployment.",
+    "saved_file": "outputs\\generated_posts\\final_year_project_linkedin.md",
+    "timestamp": "2026-11-02T11:24:02"
+  },
+  {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Reel Script",
+    "hook": "My AI just tried to tell me a traffic cone is a stop sign – and I’m losing my mind!",
+    "saved_file": "outputs\\generated_scripts\\computer_vision_project_youtube_shor.md",
+    "timestamp": "2026-11-02T11:28:16"
+  },
+  {
+    "topic": "Debugging FastAPI",
+    "platform": "X/Twitter",
+    "tone": "Funny",
+    "output_type": "Post",
+    "hook": "Eight hours debugging a FastAPI endpoint? Seriously?!",
+    "saved_file": "outputs\\generated_posts\\debugging_fastapi_x_twitter.md",
+    "timestamp": "2026-11-02T11:29:52"
+  },
+  {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "output_type": "Post",
+    "hook": "Sometimes, the most rewarding coding experiences aren’t about building the next big thing – they're about fixing what’s already there.",
+    "saved_file": "outputs\\generated_posts\\open_source_contribution_linkedin.md",
+    "timestamp": "2026-11-02T11:32:16"
+  }
+]
